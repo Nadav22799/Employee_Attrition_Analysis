@@ -35,9 +35,9 @@ This project provides a comprehensive statistical analysis of employee attrition
 - Feature type classification and encoding
 
 #### **2. Comprehensive Feature Analysis**
-- **Numerical/Ordinal Features**: Violin plots showing distributions by attrition status
-- **Categorical Features**: Grouped bar charts with percentage breakdowns
-- **Statistical Testing**: Normality tests, t-tests, Mann-Whitney U, Chi-square tests
+- **Numerical Features**: Violin plots showing distributions by attrition status
+- **Categorical/Ordinal Features**: Grouped bar charts with percentage breakdowns
+- **Statistical Testing**: Normality tests, Mann-Whitney U, Chi-square tests
 - **Effect Size Calculations**: Cohen's d, Cramér's V for practical significance
 
 #### **3. Correlation Analysis**
@@ -131,3 +131,4 @@ The analysis will create a `Figures/` directory with 8 visualization files:
 8. `Figures/enhanced_risk_stratification.png` - Business impact analysis
 
 ---
+
